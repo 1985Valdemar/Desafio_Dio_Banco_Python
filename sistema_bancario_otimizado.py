@@ -130,8 +130,8 @@ def main():
             listar_contas(contas)
 
         elif opcao == "0":
-            print("$$$$$ Banco Tabajara Agradeçe $$$$$")
-            print("     ***** Volte Sempre *****")
+            print("\n$$$$$ Banco Tabajara Agradeçe $$$$$")
+            print("     ***** Volte Sempre *****\n")
             break
 
         else:
