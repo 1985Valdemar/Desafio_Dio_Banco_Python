@@ -7,10 +7,9 @@
 <a href="#tecnologia">Tecnologia</a>&nbsp;&nbsp;&nbsp|&nbsp;&nbsp;&nbsp;
 <a href="#autor">Autor</a>.</p>
 
-# Sobre
+# Sobre 
 Estudando e Praticando para fortalecer Aprendizado 
-![Captura de tela 2024-01-11 171014](https://github.com/1985Valdemar/DIO_Python/assets/114195427/4d1cbef2-8c28-4cc2-ba47-5d023663fd0a)
-
+![Captura de tela 2024-01-19 125802](https://github.com/1985Valdemar/Desafio_Dio_Banco_Python/assets/114195427/c1407f2d-6853-4247-8bcc-d360a72246d5)
 
 <p> Python Praticando </p>
 
